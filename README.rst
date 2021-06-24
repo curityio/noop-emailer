@@ -1,8 +1,5 @@
-REST Emailer Plug-in
+NoOp Emailer Plug-in
 ====================
-
-.. image:: https://travis-ci.org/curityio/emailer-rest-plugin.svg?branch=dev
-     :target: https://travis-ci.org/curityio/emailer-rest-plugin
 
 This project provides an open source email plugin for the Curity Identity Server. The only functionality of this plugin is to print the email to be sent to the log on info level.
 
